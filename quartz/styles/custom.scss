@@ -34,8 +34,6 @@
   src: url("../fonts/JetBrainsMono-Italics.ttf");
 }
 
-:root {
-  --bodyFont: 'JetBrainsMono', monospace;
-  --headerFont: 'JetBrainsMono', monospace;
-  --codeFont: 'JetBrainsMono', monospace;
+body {
+  font-family: 'JetBrainsMono', monospace !important;
 }

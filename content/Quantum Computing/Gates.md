@@ -12,7 +12,7 @@ A quantum gate is a **unitary transformation** on one or more qubit. If you have
 > $$U U^{\dagger} = U^{\dagger} U =\mathbb{I}$$
 
 Gates can also be drawn as elements of quantum circuits. An example is shown below:
-![[public/Qiskit-Tutorials/Images/DemoCircuit-1.png]]
+![[DemoCircuit-1.png]]
 *Figure 1: Hadamard gate (red) applied to the first qubit $q_0$ and CNOT gate (blue) applied between $q_0$ and $q_1$.*
 
 Note: This is the output from running the demo circuit from the Qiskit documentation.[^1]
