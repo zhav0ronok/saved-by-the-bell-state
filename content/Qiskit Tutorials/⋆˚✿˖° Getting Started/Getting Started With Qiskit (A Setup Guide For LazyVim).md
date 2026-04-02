@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Getting Started With Qiskit (A Setup Guide For LazyVim)
 ---
 Qiskit is an open source, python based software stack developed by IBM for quantum computing (QC). It is a wonderful tool for learning about QC, and I would highly suggest experimenting with it in your editor of choice. 
 
