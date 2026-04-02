@@ -6,24 +6,24 @@
   font-style: normal;
   font-weight:400;
   font-display:swap;
-  src: url("/static/fonts/JetBrainsMono-Regular.ttf");
+  src: url("../fonts/JetBrainsMono-Regular.ttf");
 }
 
-@font-face{
-  font-family: 'JetBrainsMono';
+@font-face {
+  font-family:'JetBrainsMono';
   font-style: normal;
-  font-weight: 700;
-  font-display: swap;
-  src: url("/static/fonts/JetBrainsMono-Bold.ttf");
-
+  font-weight:700;
+  font-display:swap;
+  src: url("../fonts/JetBrainsMono-Bold.ttf");
 }
+
 
 @font-face{
   font-family: 'JetBrainsMono';
   font-style: italic;
   font-weight: 400;
   font-display: swap;
-  src: url("/static/fonts/JetBrainsMono-Italic.ttf");
+  src: url("../fonts/JetBrainsMono-Italic.ttf");
 
 }
 
@@ -34,5 +34,9 @@ body {
 
 h1,h2,h3,h4,h5,h6 {
 
+  font-family: 'JetBrainsMono', monospace;
+}
+
+code, pre {
   font-family: 'JetBrainsMono', monospace;
 }
