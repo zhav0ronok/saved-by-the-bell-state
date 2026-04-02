@@ -1,5 +1,5 @@
 ---
-title: Going Through The Official Tutorials So You Don't Have To
+title: Resources
 ---
 There are several demo Qiskit projects listed in the Qiskit [documentation](https://github.com/Qiskit/qiskit), the [IBM Quantum Platform](https://quantum.cloud.ibm.com/docs/en/tutorials) website, and the tutorial series on [YouTube](https://youtube.com/playlist?list=PLOFEBzvs-VvrgHZt3exM_NNiNKtZlHvZi&si=isnwdo1YfWW6eNSn). 
 

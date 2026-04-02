@@ -45,4 +45,4 @@ python test_qiskit.py
 
 If qiskit was properly installed and imported, you should see in the terminal the version of qiskit outputted. 
 
-If this works for you, **congratulations!** You have successfully set up qiskit and you are ready to start experimenting with it! If you are completely inexperienced with qiskit, I would suggest going through the [[₊⊹ Going Through The Official Tutorials So You Don't Have To|Demo Projects]] section next!
+If this works for you, **congratulations!** You have successfully set up qiskit and you are ready to start experimenting with it! If you are completely inexperienced with qiskit, I would suggest going through the [[Resources|Demo Projects]] section next!
