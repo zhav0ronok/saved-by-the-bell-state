@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Getting Started With QC
 ---
 #### Assumed Background
 
