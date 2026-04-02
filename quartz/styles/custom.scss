@@ -2,37 +2,37 @@
 
 
 @font-face {
-  font-family:'Libre Baskerville', serif;
+  font-family:'JetBrainsMono';
   font-style: normal;
   font-weight:400;
   font-display:swap;
-  src: url("/static/fonts/LibreBaskerville-Regular.ttf")
+  src: url("/static/fonts/JetBrainsMono-Regular.ttf")
 }
 
 @font-face{
-  font-family: 'Libre Baskerville';
+  font-family: 'JetBrainsMono';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url("/static/fonts/LibreBaskerville-Bold.ttf")
+  src: url("/static/fonts/JetBrainsMono-Bold.ttf")
 
 }
 
 @font-face{
-  font-family: 'Libre Baskerville';
+  font-family: 'JetBrainsMono';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url("/static/fonts/LibreBaskerville-Italic.ttf")
+  src: url("/static/fonts/JetBrainsMono-Italic.ttf")
 
 }
 
 body {
 
-  font-family: 'Libre Baskerville', serif;
+  font-family: 'JetBrainsMono', serif;
 }
 
 h1,h2,h3,h4,h5,h6 {
 
-  font-family: 'Libre Baskerville',serif;
+  font-family: 'JetBrainsMono',serif;
 }
