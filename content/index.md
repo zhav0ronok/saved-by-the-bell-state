@@ -13,7 +13,7 @@ Hi, I'm M!
 
 Welcome to my blog! So far, this page will mostly be used to record my progress in learning Quantum Computing, although it will likely be extended to other things in the future!
 
-#### Contents
+### Contents
 - [[content/Qiskit/index|Qiskit]]: Various tutorials and projects involving Qiskit, a software development stack tailored to QC.
 - [[content/Quantum Computing/index|Quantum Computing]]: This section will deal with studying the more theoretical side of things.
 

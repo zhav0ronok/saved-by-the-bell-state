@@ -24,5 +24,9 @@ If you lack a background in quantum mechanics and would like somewhere to start,
 - Quantum Mechanics *A Paradigms Approach*; David H. McIntyre
 - Introduction to Quantum Mechanics *Second Edition*; David J. Griffiths
 
+I am currently reading:
+
+- Quantum Computation and Quantum Information *10th Anniversary Edution*; Michael A. Nielsen & Isaac L. Chuang
+
 
 
