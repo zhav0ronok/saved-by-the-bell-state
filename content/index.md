@@ -1,18 +1,26 @@
 ---
 title: Introduction
 ---
-As I delve into an unfamiliar topic, I am often overwhelmed by the massive volume of information coming at me from all directions. Rabbit hole after rabbit hole, project after project, I sometimes find myself unable to even retrace my own steps. Taking good notes, of course, is the antidote for this, but this can be very tedious... Luckily, that's kind of my jam, so if you are in the same situation as me: a newbie to quantum computing, starting from square one, feel free to follow along with these notes!
+%% As I delve into an unfamiliar topic, I am often overwhelmed by the massive volume of information coming at me from all directions. Rabbit hole after rabbit hole, project after project, I sometimes find myself unable to even retrace my own steps. Taking good notes, of course, is the antidote for this, but this can be very tedious... Luckily, that's kind of my jam, so if you are in the same situation as me: a newbie to quantum computing, starting from square one, feel free to follow along with these notes!
 
 I will be updating these notes as I go, and information will be presented in a logical sequence for someone who lacks any prior exposure. I can try my best to make these notes interactive, however, there is no substitute for trying things out yourself, so I encourage you to follow along!
 
 These notes will encompass a good mix of things, including a solid (but obviously not complete) background in QM, and several hands-on projects, including but not necessarily limited to qiskit projects.
 
-Enjoy!
+Enjoy! %%
+
+Hi, I'm M!
+
+Welcome to my blog! So far, this page will mostly be used to record my progress in learning Quantum Computing, although it will likely be extended to other things in the future!
+
+#### Contents
+- [[content/Qiskit/index|Qiskit]]: Various tutorials and projects involving Qiskit, a software development stack tailored to QC.
+- [[content/Quantum Computing/index|Quantum Computing]]: This section will deal with studying the more theoretical side of things.
 
 ***
 
 #### About Me
 
-I am a second year undergraduate student at Cornell University, studying physics, and QC is one of my (several) long-term research interests!
+I am a third year undergraduate student at Cornell University, studying physics, and QC is one of my (several) long-term research interests!
 
 Apart from that, I love all things Linux, music, and cat-related. Feel free to check out my other projects on [GitHub](https://github.com/zhav0ronok) or reach out to me directly at nixiedystopia@gmail.com.

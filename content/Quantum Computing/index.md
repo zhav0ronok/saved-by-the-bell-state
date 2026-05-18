@@ -1,5 +1,5 @@
 ---
-title: Getting Started With QC
+title: Quantum Computing
 ---
 #### Assumed Background
 

@@ -1,12 +1,6 @@
 ---
-title: Getting Started With Qiskit (A Setup Guide For LazyVim)
+title: Qiskit Setup Guide For LazyVim
 ---
-Qiskit is an open source, python based software stack developed by IBM for quantum computing (QC). It is a wonderful tool for learning about QC, and I would highly suggest experimenting with it in your editor of choice. 
-
-I am using neovim (with LazyVim) on Linux, so my setup guide will of course be tailored to that, as I cannot speak for much else. If you are using a different editor or OS, please refer to the [official documentation](https://github.com/Qiskit/qiskit).
-
-***
-
 ### Setup Guide 
 
 If you already have nvim working on your system, you can begin following the LazyVim [installation guide](https://www.lazyvim.org/installation), which has instructions for Linux, MacOS, and Windows. It is perfectly fine to clone the starter configuration and work from there. This is exactly what I did. 
