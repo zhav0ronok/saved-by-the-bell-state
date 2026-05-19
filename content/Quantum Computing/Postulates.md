@@ -11,7 +11,7 @@ Alternatively, the state of the system is described in its entirety by a wavefun
 **The only possible measurement of an observable corresponding to the operator $A$ is one of its eigenvalues, $a_{n}$.**
 
 ### IV.) Probability Postulate
-The probability of obtaining $a_{n}$ as the result of a measurement of $A$ on the system in the state $|\psi\rangle$ is
+**The probability of obtaining $a_{n}$ as the result of a measurement of $A$ on the system in the state $|\psi\rangle$ is**
 $$
 \boxed{\mathcal{P}_{a_{n}}=|\langle a_{n} | \psi\rangle|^2}
 $$

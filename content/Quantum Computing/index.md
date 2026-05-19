@@ -28,5 +28,6 @@ I am currently reading:
 
 - Quantum Computation and Quantum Information *10th Anniversary Edution*; Michael A. Nielsen & Isaac L. Chuang
 
+***
 
-
+## Contents
