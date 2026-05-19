@@ -11,7 +11,6 @@ export const sharedPageComponents: SharedLayout = {
       GitHub: "https://github.com/zhav0ronok",
       Twitter: "https://x.com/nixiedystopia",
       Reddit: "www.reddit.com/user/nixiedystopia",
-      Email: nixiedystopia@gmail.com,
     },
   }),
 }
