@@ -23,6 +23,6 @@ print(qc.draw(output='text'))
 ```
 The output will look something like:
 
-![[DemoCircuit-1a.png]]
+![[public/Qiskit/Images/DemoCircuit-1a.png]]
 
 *(This is a screenshot from my terminal, and it is the output of the demo circuit in the Qiskit documentation)*

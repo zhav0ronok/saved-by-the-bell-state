@@ -31,3 +31,10 @@ I am currently reading:
 ***
 
 ## Contents
+
+#### Section 1 - Intro to Quantum Computing
+- [[1.1 - Qubits]]
+- [[1.2 - Gates]]
+- [[1.3 - Operators]]
+
+#### Section 2 - Algorithms

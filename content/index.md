@@ -9,13 +9,12 @@ These notes will encompass a good mix of things, including a solid (but obviousl
 
 Enjoy! %%
 
-Hi, I'm M!
+Hi, I'm Maddie!
 
-Welcome to my blog! So far, this page will mostly be used to record my progress in learning Quantum Computing, although it will likely be extended to other things in the future!
+Welcome to my blog! Here, I talk about random things I find interesting.
 
 ### Contents
-- [[content/Qiskit/index|Qiskit]]: Various tutorials and projects involving Qiskit, a software development stack tailored to QC.
-- [[content/Quantum Computing/index|Quantum Computing]]: This section will deal with studying the more theoretical side of things.
+- [[content/Videos/index|Videos]]: Typeset notes from videos of mine, animated with Manim.
 
 ***
 
