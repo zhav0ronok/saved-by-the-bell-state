@@ -19,6 +19,7 @@ There are $n$ members of group $A$ (men) and that same number $n$ in group $B$ (
 In the first round, the members of group $A$ send out a proposal to their top choice in group $B$ and the members in group $B$ who received proposals have the choice to either:
 - Reject the proposal
 - Provisionally accept the proposal
+
 Then, in the second round, the still unpaired members of group $A$ send out proposals to their second ranked choice among members of group $B$. Once again, members of group $B$ have the choice to either reject or provisionally accept the proposal, but now they have the additional option to leave their previously provisionally accepted proposal in favor of the new one. 
 
 This continues until the unpaired individuals in group $A$ have sent out proposals to everyone, by order of decreasing preference.

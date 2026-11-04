@@ -14,7 +14,7 @@ Hi, I'm Maddie!
 Welcome to my blog! Here, I talk about random things I find interesting.
 
 ### Contents
-- [[content/Videos/index|Videos]]: Typeset notes from videos of mine, animated with Manim.
+- [[drafts/Videos/index|Videos]]: Typeset notes from videos of mine, animated with Manim.
 
 ***
 
